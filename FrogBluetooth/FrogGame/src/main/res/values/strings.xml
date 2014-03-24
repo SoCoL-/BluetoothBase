@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FrogBluetooth</string>
+    <string name="hello_world">Набросок Bluetooth соединения</string>
+    <string name="action_scan">Найти устройства</string>
+    <string name="action_discoverable">Включить Bluetooth</string>
+    <string name="scan_btn_text">Найти устройства</string>
+    <string name="scan_btn_stop_text">Остановить поиск</string>
+
+    <string name="paired_devices_text">Привязанные устройства</string>
+    <string name="other_devices_text">Новые устройства</string>
+
+    <string name="no_devices">Нет устройств</string>
+
+    <string name="connect_text_title">Предупреждение</string>
+    <string name="connect_text_message">Для обнаружения новых устройств, вам потребуется включить Bluetooth. Согласны ли вы включить его на 300 секунд?</string>
+
+    <string name="btn_yes">Да</string>
+    <string name="btn_no">Нет</string>
+
+    <string name="not_enable_BT">Bluetooth не доступен! Выходим из приложения!</string>
+
+</resources>
